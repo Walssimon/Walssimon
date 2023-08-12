@@ -1,9 +1,12 @@
-
+<div style= "display: inline_block">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3bb23c&height=120&section=header"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3bb23c&size=38&center=true&vCenter=true&width=1000&lines=Walssimon's+Mojo+Dojo+Casa+House)](https://git.io/typing-svg)
+<img align="right" alt="Wall-foto" width=15% src="https://cdn.discordapp.com/attachments/757278630140444753/1139951290105999400/WAlssimongit.gif"/>
+  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3bb23c&size=38&center=true&vCenter=true&width=1000&lines=Walssimon's+Mojo+Dojo+Casa+House)](https://git.io/typing-svg)
 
-
+</div>
 <p>🌱 I’m currently learning SQL and some BI stuff for work 
   <br>💭 My distant dream as a programmer is to create a farm game. Hey! Perhaps one day I will build something like that!
   <br>⚡ Fun fact: I have a twin
