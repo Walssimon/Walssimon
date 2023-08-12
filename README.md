@@ -1,5 +1,8 @@
 
-<h1>Walssimon's Mojo Dojo Casa House</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3bb23c&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3bb23c&size=38&center=true&vCenter=true&width=1000&lines=Walssimon's+Mojo+Dojo+Casa+House)](https://git.io/typing-svg)
+
 
 <p>🌱 I’m currently learning SQL and some BI stuff for work 
   <br>💭 My distant dream as a programmer is to create a farm game. Hey! Perhaps one day I will build something like that!
@@ -37,7 +40,9 @@
 
 
 <div>
-  <p> Cristo logo existo</p>
+  <br>
+  <br>
+  <p align="center"> Cristo logo existo</p>
 </div>
 <!--
 **Walssimon/Walssimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
