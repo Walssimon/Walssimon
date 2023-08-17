@@ -12,7 +12,7 @@
   <br>⚡ Fun fact: I have a twin
   <br>💻 Free Time: I am a video editor</p>
 
-## Conhecimentos adquiridos
+## Acquired knowledge
 
 <div style="display: inline_block">
   <img align="center" alt="Wals-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +25,7 @@
   <img align="center" alt="Wals-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 </div> <br>
 
-## Conhecimentos em geral
+## General knowledge
 <div style="display: inline_block">
   <img align="center" alt="Wals-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Wals-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
@@ -33,7 +33,7 @@
   <img align="center" alt="Wals-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 </div>
 
-## Contatos
+## Contacts
 
 <div style="display: inline_block">  
 <a href="https://www.linkedin.com/in/walssimon-sacramento-883375111/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
